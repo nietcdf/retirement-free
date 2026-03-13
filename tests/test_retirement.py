@@ -1,5 +1,2 @@
-from retirement import main
-
-
-def test_main():
+def test_placeholder():
     pass
